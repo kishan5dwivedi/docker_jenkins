@@ -3,4 +3,5 @@
   <groupId>com.docker</groupId>
   <artifactId>docker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build> <finalName>devops-integration</finalName></build>
 </project>
